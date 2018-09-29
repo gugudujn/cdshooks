@@ -11,7 +11,7 @@
       "links": [
         {
           "label": "SMART Example App",
-          "url": "http://launch.smarthealthit.org/ehr.html?app=http%3A%2F%2Flocalhost%3A8081%2Flaunch.html%3Flaunch%3DeyJhIjoiMSIsImIiOiIyZmFlZDg1ZS1kNmUwLTRhNTMtYTM5Ny0xNGY4NmU4MGMwY2YiLCJlIjoiQ09SRVBSQUNUSVRJT05FUjEiLCJmIjoiMSJ9%26iss%3Dhttp%253A%252F%252Flaunch.smarthealthit.org%252Fv%252Fr2%252Ffhir&user=COREPRACTITIONER1",
+          "url": "http://launch.smarthealthit.org/ehr.html?app=http%3A%2F%2Fec2-18-222-254-102.us-east-2.compute.amazonaws.com%3A8081%2Flaunch.html%3Flaunch%3DeyJhIjoiMSIsImIiOiJzbWFydC0xMDk4NjY3IiwiZSI6IkNPUkVQUkFDVElUSU9ORVIxIiwiZiI6IjEifQ%26iss%3Dhttp%253A%252F%252Flaunch.smarthealthit.org%252Fv%252Fr2%252Ffhir&user=COREPRACTITIONER1http://launch.smarthealthit.org/ehr.html?app=http%3A%2F%2Fec2-18-222-254-102.us-east-2.compute.amazonaws.com%3A8081%2Flaunch.html%3Flaunch%3DeyJhIjoiMSIsImIiOiJzbWFydC0xMDk4NjY3IiwiZSI6IkNPUkVQUkFDVElUSU9ORVIxIiwiZiI6IjEifQ%26iss%3Dhttp%253A%252F%252Flaunch.smarthealthit.org%252Fv%252Fr2%252Ffhir&user=COREPRACTITIONER1",
           "type": "smart"
         }
       ]
