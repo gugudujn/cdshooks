@@ -1,0 +1,16 @@
+https://localhost:8443/cds-services
+
+https://localhost:8443/cds-services/static-patient-view
+
+http://sandbox.cds-hooks.org/
+
+c1) Could not retrieve any services at discovery endpoint Error: Network Error - in microsoft
+
+t1) print headers and cookies
+	cookie-parser, console.log(jsonstringify)
+	
+t2) try enabling cors in the server
+	app.use(cores() - express
+
+t3) disable Allow-Control-Allow-Origin: * extension in google chrome
+
